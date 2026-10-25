@@ -1,0 +1,1 @@
+Provided as a starter project for local educational and prototyping use. No warranty is provided.
